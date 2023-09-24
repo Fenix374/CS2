@@ -1,0 +1,14 @@
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\bin\Debug\net7.0\PraktosC#2.exe
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\bin\Debug\net7.0\PraktosC#2.deps.json
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\bin\Debug\net7.0\PraktosC#2.runtimeconfig.json
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\bin\Debug\net7.0\PraktosC#2.dll
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\bin\Debug\net7.0\PraktosC#2.pdb
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.AssemblyInfo.cs
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.dll
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\refint\PraktosC#2.dll
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.pdb
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\PraktosC#2.genruntimeconfig.cache
+C:\Users\semen\source\repos\PraktosC#2\PraktosC#2\obj\Debug\net7.0\ref\PraktosC#2.dll
